@@ -1,0 +1,14 @@
+MyI2C	KEYWORD1
+write1Message	KEYWORD2
+clockwise	KEYWORD3
+antiClockwise	KEYWORD4
+writeCharArray	KEYWORD5
+lcdClear	KEYWORD6
+functionSet	KEYWORD7
+lcdOn	KEYWORD8
+lcdOff	KEYWORD9
+lcdHome	KEYWORD10
+Line2	KEYWORD11
+Line1	KEYWORD12
+writeCmd	KEYWORD13
+writeData	KEYWORD14

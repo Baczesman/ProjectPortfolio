@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Simulation>
+        <robot_init_pos>1,1</robot_init_pos>
+        <target_init_pos>9,9</target_init_pos>
+        <trial>
+            <number>1</number>
+            <move number="1">
+                <robot>3,3</robot>
+                <target>10,10</target>
+            </move>
+        </trial>
+</Simulation>

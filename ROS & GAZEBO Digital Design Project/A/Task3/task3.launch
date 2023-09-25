@@ -1,0 +1,5 @@
+<launch>
+	<node pkg="turtlesim" name="sim" type="turtlesim_node"/>
+	<node pkg="ZbigniewBarczyk_638237_ACW1" name="mytarget" type="mytarget3.py"/>
+	<node pkg="ZbigniewBarczyk_638237_ACW1" name="robot" type="robot3.py"/>
+</launch>
